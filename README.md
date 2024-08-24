@@ -30,11 +30,12 @@
   <img src="https://github-trophies.vercel.app/?username=mask-shakill&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mask-shakill&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mask-shakill&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="345" alt="Top Languages" />
 </div>
-<p >
+
+<p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mask-shakill&theme=radical&hide_border=false" alt="GitHub Streak" width="700" />
 </p>
 
@@ -44,13 +45,6 @@
 
 
 
-
-
-### 🔝 Top Contributed Repo
-
-<p >
-  <img src="https://github-contributor-stats.vercel.app/api?username=mask-shakill&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="600" />
-</p>
 
 
 
