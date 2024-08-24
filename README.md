@@ -22,9 +22,10 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=mask-shakill&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mask-shakill&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="600" />
+<p align="start" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mask-shakill&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="800" height="300" />
 </p>
+
 
 
 
