@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, Md. Al Shaharirar Kobir Shakil </h1>
 <h2 align="center">I turn ideas into functional code </h2>
 
-<h1 align="center" >Every contribution counts in this journey 🚀 </h1>
+<h4 >Every contribution counts in this journey 🚀 </h4>
 
 <picture>
   <source
