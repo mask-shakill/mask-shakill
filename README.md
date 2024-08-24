@@ -24,13 +24,6 @@
 </p>
 
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/mask-shakill?bg_color=111&text_color=aaa&grid_color=333&language_colors=["3e4053","cc4b48","518fbd","ba7a2b","60bd68","f17cb0","b2912f","c71585","b276b2"])
-
-
-
-
-
-
 
  <h1 align="center"> 🏆 GitHub Trophies</h1>
 
@@ -46,15 +39,6 @@
 <p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mask-shakill&theme=radical&hide_border=false" alt="GitHub Streak" width="700" />
 </p>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -91,3 +75,15 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="33" alt="linux logo"  />
 </div>
+
+
+<h2 align="center">Connect with me:</h2>
+<div align="center">
+<!-- <a href="https://twitter.com/utshodeytech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utshodeytech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utsho-dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsho-dey" height="30" width="40" /></a>
+<a href="https://kaggle.com/utsh0dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utsh0dey" height="30" width="40" /></a>
+<a href="https://medium.com/@utshodey.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utshodey.tech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@utshodey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@utshodey" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/utshodey.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="utshodey.tech" height="30" width="40" /></a> -->
+</div>
+
