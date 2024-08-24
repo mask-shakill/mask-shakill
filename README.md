@@ -1,7 +1,9 @@
 
 
-<h1 align="center">Hi 👋, Md. Al Shaharirar Kobir Shakil/h1>
-<h3 align="center">A Software Developer who loves to Develop, Analyze and Innovate</h3
+<h1 align="center">Hi 👋, Md. Al Shaharirar Kobir Shakil </h1>
+<h2 align="center">I turn ideas into functional code </h2>
+
+<h1 align="center" >Every contribution counts in this journey 🚀 </h1>
 
 <picture>
   <source
