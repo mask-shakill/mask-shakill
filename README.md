@@ -24,7 +24,7 @@
 ![](https://github-trophies.vercel.app/?username=mask-shakill&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mask-shakill&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mask-shakill&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mask-shakill&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="370" alt="Top Languages" />
   
 </div>
 
