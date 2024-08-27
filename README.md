@@ -25,20 +25,16 @@
 
 
 
- <h1 align="center"> 🏆 GitHub Trophies</h1>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=mask-shakill&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mask-shakill&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mask-shakill&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="345" alt="Top Languages" />
-</div>
+  
+<img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=mask-shakill&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mask-shakill&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mask-shakill&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mask-shakill&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mask-shakill&theme=solarized_dark&utcOffset=8" />
 
-<p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mask-shakill&theme=dark&hide_border=false" alt="GitHub Streak" width="700" />
-</p>
+</div>
 
 
 
