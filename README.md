@@ -1,22 +1,7 @@
-<h1 align="center">Hi 👋, Md. Al Shaharirar Kobir Shakil </h1>
-<h2 align="center">I turn ideas into functional code </h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Md.%20Al%20Shahariar%20Kobir%20Shakil&fontSize=42&fontColor=00ff99&fontAlignY=40&fontType=Ubuntu&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER%20%7C%20AI%20ENTHUSIAST&descAlignY=65&descAlign=50" width="100%" alt="Robotic Banner" />
 
-<h4 align="center">Every contribution counts in this journey 🚀</h4>
+  <br />
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&bg_color=000000&color=00ff99&line=00cc66&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION_LOG_ACTIVITY" width="100%" alt="Contribution Graph" />
+</div>
