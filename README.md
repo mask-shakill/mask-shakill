@@ -3,5 +3,5 @@
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&bg_color=000000&color=00ff99&line=00cc66&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION LOG ACTIVITY" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&bg_color=000000&color=00ff99&line=00cc66&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION_LOG_ACTIVITY" width="100%" alt="Contribution Graph" />
 </div>
